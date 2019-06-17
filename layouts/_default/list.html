@@ -144,13 +144,10 @@ code {
 </style>
 {{ end }}
 {{ define "main" }}
-<!-- <div class="pool">
-    <img src="{{ .Site.BaseURL }}compact2.png" alt="Bio1ixir" class="compact-logo">
-</div> -->
     {{ range .Pages }}
             <div class="box">
                 <br>
-                <div class="title"><a href="{{.Permalink}}">{{ .Title }}</a> </div>
+                <div class="title"><a href="{{ .Permalink }}">{{ .Title }}</a> </div>
                 <div class="article-info">
                     <div class="author"><i class="fa fa-pencil-square-o" area-hidden="true"></i> {{ .Params.author }}</div>
                     <div class="eta">
@@ -169,7 +166,7 @@ code {
                     </svg> 
                     {{ .Date.Format "Jan 2, 2006" }}</div>
                 </div>
-                <div class="overview">{{ .Params.overview }}...<a href="{{.Permalink}}">Read more</a></div>
+                <div class="overview">{{ .Params.overview }}...<a href="{{ .Permalink }}">Read more</a></div>
                 <hr>
             </div><br>
     {{ end }}

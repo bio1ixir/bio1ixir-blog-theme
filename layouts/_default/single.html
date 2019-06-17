@@ -132,5 +132,6 @@ code {
 </div>
 <hr>
     <div class="content">{{ .Content }}</div>
-    <hr>
+    <hr><br>
+    {{ template "_internal/disqus.html" . }}
 {{ end }}
