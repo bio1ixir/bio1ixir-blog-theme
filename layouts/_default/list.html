@@ -59,6 +59,10 @@ code {
     padding: 0px 20px 20px 20px;
     margin: 2rem 2rem 2rem 2rem;
     display: block;
+    transition-property: all;
+    transition-duration: 0.7s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
 }
 .box:hover {
     box-shadow: 0rem 0.6rem 1.8rem #66176d57;
@@ -149,7 +153,7 @@ code {
                     </svg> 
                     {{ .Date.Format "Jan 2, 2006" }}</div>
                 </div>
-                <div class="overview">{{ .Params.summary }}...<a href="{{.Permalink}}">read more</a></div>
+                <div class="overview">{{ .Params.overview }}...<a href="{{.Permalink}}">Read more</a></div>
                 <hr>
             </div><br>
     {{ end }}
