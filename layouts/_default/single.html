@@ -55,6 +55,30 @@ code {
     height: 1rem;
     width: 1rem;
 }
+.content img.a {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: auto auto;
+}
+.content img.b {
+    width: 75%;
+    height: auto;
+    display: block;
+    margin: auto auto;
+}
+.content img.c {
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: auto auto;
+}
+.content img.d {
+    width: 25%;
+    height: auto;
+    display: block;
+    margin: auto auto;
+}
 @media only screen and (max-width:1076px) {
     .container .content {
     font-size: 1.4rem;
@@ -79,6 +103,11 @@ code {
     grid-template-rows: auto auto;
     }
     .container .main-content .title {font-size: 10vw}
+
+    .content img.a, .content img.b, .content img.c, .content img.d {
+    width: 100%;
+    height: auto;
+    }
 }
 @media only screen and (max-width:476px) {
     .container .content {
@@ -92,11 +121,15 @@ code {
     font-weight: 600;
     }
     .container .main-content .title {font-size: 2.6rem}
-}
-.content img {
+
+    .content img.a, .content img.b, .content img.c, .content img.d {
     width: 100%;
     height: auto;
+
+    }
 }
+
+
 </style>
 {{ end }}
 {{ define "main" }}
