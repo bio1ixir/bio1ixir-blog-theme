@@ -78,6 +78,7 @@ So  that’s that for corporate jobs. Now if you are one of the inquisitive  kin
 - Other features of 4-year B.Tech. in Bioengineering (formerly B.Tech. in Biotechnology) are as following-
 
 i. *Option of 4 - year B.Tech. with Department Specialization in*
+
 - Smart Health care
 - Production realization
 
@@ -88,8 +89,9 @@ ii. *Option of 4 - year B.Tech. with Interdisciplinary Specialization in*
 - Cognitive Science
 
 iii. *Option of 4 - year B.Tech. with Minor in*
--. Management
--. Entrepreneurship
+
+- Management
+- Entrepreneurship
 
 iv. *Option to convert B.Tech. into 5-year B.tech. + M.Tech. Dual Degree in 7th semester with M.Tech. in Bio-Engineering*
 
