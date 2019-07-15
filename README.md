@@ -1,3 +1,4 @@
+```
 bio1ixir-blog-theme
 ├── archetypes
 │   └── default.md
@@ -36,4 +37,4 @@ bio1ixir-blog-theme
 └── theme.toml
 
 15 directories, 20 files
-
+```
