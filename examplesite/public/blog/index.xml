@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on bio1ixir-blog-theme</title>
@@ -6,19 +6,10 @@
     <description>Recent content in Blogs on bio1ixir-blog-theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jul 2019 16:47:27 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2019 20:04:52 +0530</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Chato</title>
-      <link>/blog/pro/</link>
-      <pubDate>Mon, 22 Jul 2019 16:47:27 +0530</pubDate>
-      
-      <guid>/blog/pro/</guid>
-      <description>Website Theme Bio1ixir Blog is a static website generated using hugo in a hope that it&amp;rsquo;ll make it easier for aspiring authors to post their creation without needing any knowledge of markup language and cascade styling. For this purpose, the theme which it uses is designed by Archit Dwivedi (designing counts- user interface, logo, colour schemes, fonts and template as a whole) and have been added as a submodule in the main blog repository.</description>
-    </item>
     
     <item>
       <title>Views</title>
@@ -26,7 +17,7 @@
       <pubDate>Sun, 30 Jun 2019 20:04:52 +0530</pubDate>
       
       <guid>/blog/views/</guid>
-      <description>Originally answered on Quora- How is B.Tech. in Bioengineering program at IIT Jodhpur with respect to faculty, internship, and student exchange programs? 
+      <description>Originally answered on Quora- How is B.Tech. in Bioengineering program at IIT Jodhpur with respect to faculty, internship, and student exchange programs?
  B.Tech. in Bio engineering (formerly Biotechnology) at IITJ has seen its first undergraduate batch in 2018. As I&amp;rsquo;m writing this, it makes the senior most batch of this branch in sophomore year. Many things are yet to happen to its first batch itself to which respect they can narrate the know-hows to the world.</description>
     </item>
     

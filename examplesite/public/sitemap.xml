@@ -1,20 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/chandra/</loc>
-    <lastmod>2019-10-01T12:52:35+05:30</lastmod>
+    <loc>/</loc>
+    <lastmod>2020-05-27T22:01:41+05:02</lastmod>
   </url>
   
   <url>
-    <loc>/fft/</loc>
-    <lastmod>2019-10-01T12:52:35+05:30</lastmod>
+    <loc>/arushi-khushi/</loc>
+    <lastmod>2020-05-27T22:01:41+05:02</lastmod>
   </url>
   
   <url>
-    <loc>/blog/pro/</loc>
-    <lastmod>2019-07-22T16:47:27+05:30</lastmod>
+    <loc>/diya/</loc>
+    <lastmod>2020-05-27T22:01:41+05:03</lastmod>
+  </url>
+  
+  <url>
+    <loc>/evi1haxor/</loc>
+    <lastmod>2020-05-27T22:01:41+05:06</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2019-06-30T20:04:52+05:30</lastmod>
   </url>
   
   <url>
@@ -28,25 +38,11 @@
   </url>
   
   <url>
-    <loc>/blog/</loc>
-    <lastmod>2019-07-22T16:47:27+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-10-01T12:52:35+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
